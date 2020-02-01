@@ -5,6 +5,7 @@ Topics are :-</br>
 <b>1. Web Scrapping </b></br> 
 <b>2. Gradient Descent Algorithm </b></br>
 <b>3. KNN Algorithm </b></br>
+<b>4. Linear Regression </b></br>
 
 </br>
 </br>
