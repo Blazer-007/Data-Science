@@ -6,6 +6,10 @@ Topics are :-</br>
 <b>2. Gradient Descent Algorithm </b></br>
 <b>3. KNN Algorithm </b></br>
 <b>4. Linear Regression </b></br>
+<b>5. Logistic Regression </b></br>
+<b>6. Naive Bayes </b></br>
+<b>7. Decision Tree </b></br>
+<b>8. Text Preprocessing </b></br>
 
 </br>
 </br>
